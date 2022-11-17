@@ -2,7 +2,7 @@
 
 ## Description
 
-This is the project my team created for the McMaster Engineering Challenge, in which we finished 2nd place!
+OceanLink is the project my team created for the McMaster Engineering Challenge, in which we finished 2nd place!
 
 The task we were challenged with was creating an ocean navigation system, so our group developed an application that allows ship captains to get updates on 
 ocean/weather conditions such as wind, fog, nearby objects, and tide height. 
