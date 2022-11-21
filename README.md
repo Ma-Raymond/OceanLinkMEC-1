@@ -1,4 +1,4 @@
-# OceanLink
+# OceanLink Application
 
 ## Description
 
